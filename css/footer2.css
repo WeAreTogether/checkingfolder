@@ -1,0 +1,10 @@
+#footer
+{
+	min-height: 260px;
+}
+
+#footerContainer
+{
+	background: #1e1e1e url(../img/footer_bg.png) no-repeat right bottom;
+        border-top: 3px solid #236946;
+}
